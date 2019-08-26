@@ -3,6 +3,8 @@
 var a = 'Test1'; 
 let b = 'Test2'; 
 
+() => console.log(Hi gab pay attention gab); 
+
 const testVar = () => {
     const a = 30; 
     if (true) {
