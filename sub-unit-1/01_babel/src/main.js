@@ -1,17 +1,17 @@
+let test = 'hello';
 
+// class User{
+//   register(){
+//     console.log('User Registered...');
+//   }
+// }
+// const colors = [];
 
-class User{
-  register(){
-    console.log('User Registered...');
-  }
-}
-const colors = [];
+// colors.push('red');
+// colors.push('blue');
 
-colors.push('red');
-colors.push('blue');
+// // colors = 'Green';
 
-// colors = 'Green';
-
-console.log(colors);
+// console.log(colors);
 
 
