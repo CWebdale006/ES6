@@ -1,20 +1,39 @@
 "use strict"; 
+console.log("hello")
+// var a = 'Test1'; 
+// let b = 'Test2'; 
 
-var a = 'Test1'; 
-let b = 'Test2'; 
+// function testVar() {
+//     var a = 30; 
+//     if(true){
+//         var a = 50; 
+//         console.log(a);
+//     }
+//     console.log(a);
+// }
 
-() => console.log(Hi gab pay attention gab); 
+// function testLet() {
+//     let a = 30; 
+//     if(true) {
+//         let a = 50; 
+//         console.log(a);
+//     }
+//     console.log(a);
+// }
 
-const testVar = () => {
-    const a = 30; 
-    if (true) {
-        let a = 50; 
-        console.log(a); 
-        a = 30; 
-    }
-    console.log(`other A: ${a}`); 
-}
+// for(let i = 0; i < 10; i++) {
+//     console.log(i);
+// }
 
-console.log(`Logged: ${a}`); 
+// console.log(i);
 
-testVar(); 
+
+
+const colors = [];
+
+colors.push('red');
+colors.push('blue');
+
+colors = "green";
+
+console.log(colors);
